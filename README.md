@@ -8,10 +8,11 @@ B.Tech Electrical & Electronics Engineering student at **NIT Calicut, Kerala**. 
 
 ---
 
-## 🌐 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranjal2612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal2612" height="30" width="40" /></a>
+<a href="https://kaggle.com/pranjal049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranjal049" height="30" width="40" /></a>
+<a href="https://instagram.com/_pranjal049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pranjal049" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/proffesor049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="proffesor049" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranjal049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranjal049" height="30" width="40" /></a>
 </p>
@@ -42,6 +43,14 @@ B.Tech Electrical & Electronics Engineering student at **NIT Calicut, Kerala**. 
 # 📊 GitHub Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proffesor07&theme=dracula" alt="proffesor07" /></p>
+
+---
+
+## 💻 LeetCode Stats
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/pranjal049?theme=dark&font=Karma&ext=contest" />
+</p>
 
 ---
 
