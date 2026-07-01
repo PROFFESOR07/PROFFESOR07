@@ -1,4 +1,8 @@
+<h1 align="center">Hi 👋, I'm Pranjal</h1>
+<h3 align="center">AI/ML and Robotics Enthusiast</h3>
+
 # 💫 About Me
+
 
 B.Tech Electrical & Electronics Engineering student at **NIT Calicut, Kerala**. Interested in **Machine Learning, Robotics, Software Development, Data Analytics, and Stock Market Finance**. Passionate about building practical AI-driven solutions through machine learning, data, and software engineering while continuously learning new technologies.
 
@@ -6,8 +10,11 @@ B.Tech Electrical & Electronics Engineering student at **NIT Calicut, Kerala**. 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pranjal2612/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:pranjalchoudhary2011@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/pranjal2612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal2612" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/proffesor049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="proffesor049" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pranjal049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranjal049" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -34,11 +41,7 @@ B.Tech Electrical & Electronics Engineering student at **NIT Calicut, Kerala**. 
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=PROFFESOR07\&show_icons=true\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://streak-stats.demolab.com?user=PROFFESOR07\&theme=radical\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PROFFESOR07\&layout=compact\&theme=radical\&hide_border=false)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proffesor07&theme=dracula" alt="proffesor07" /></p>
 
 ---
 
@@ -48,6 +51,6 @@ B.Tech Electrical & Electronics Engineering student at **NIT Calicut, Kerala**. 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=PROFFESOR07\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=proffesor07&label=Profile%20views&color=0e75b6&style=flat" alt="proffesor07" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=PROFFESOR07\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=10)
+
